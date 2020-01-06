@@ -2,4 +2,4 @@ name: Hank Quinlan, Horrible Cop
 markdown: kramdown
 remote_theme: "mmistakes/minimal-mistakes@4.17.2"
 Plugins:
-ekyll-include-cache
+- jekyll-include-cache
